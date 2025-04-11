@@ -2,18 +2,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=header"/>
 
 ---
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px">Hi, I'm Gabriel Cordeiro!  
-### ABAP Programming Student | Full Stack Developer  
-
-<div align="center">
-  <a href="https://github.com/GabrielCordeiroBarrosoTeles">
-    <!-- Uncomment this to include your GitHub Stats card -->
-  <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCordeiroBarrosoTeles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-    <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCordeiroBarrosoTeles&layout=compact&langs_count=7&theme=dark"/>-->
-    <img height="199em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCordeiroBarrosoTeles&layout=compact&langs_count=20&theme=dark" alt="Github top linguagens"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCordeiroBarrosoTeles&theme=dark" alt="Github estatísticas"/>
-  </a>
-</div>
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px">HI, this is Team 04 of Capacita Brasil cycle 2 of the IOS Programming Track.
+### Swift Developer | Mobile Programmer 
 
 
 
@@ -68,9 +58,9 @@ Snake
 </picture>
 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/equipe04-ioscapacitabr/equipe04-ioscapacitabr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/equipe04-ioscapacitabr/equipe04-ioscapacitabr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/equipe04-ioscapacitabr/equipe04-ioscapacitabr/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
