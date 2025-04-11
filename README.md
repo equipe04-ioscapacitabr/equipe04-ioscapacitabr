@@ -19,45 +19,38 @@
 
 ---
 
-## 👥 **Nossas Equipe**
+## 👥 **Nossa Equipe**
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center;">
 
-<div style="width: 45%; margin: 10px;">
-  <img src="https://avatars.githubusercontent.com/u/98492418?v=4" alt="Foto do Gabriel" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-  <p><strong>Gabriel Cordeiro Barroso Teles</strong></p>
-  <p>
-    <a href="https://github.com/GabrielCordeiroBarrosoTeles">GitHub</a> | 
-    <a href="https://www.linkedin.com/in/gabriel-cordeiro-barroso">LinkedIn</a>
-  </p>
-</div>
+<div align="center">
 
-<div style="width: 45%; margin: 10px;">
-  <img src="https://avatars.githubusercontent.com/u/207099894?v=4" alt="Foto do Caio" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-  <p><strong>Caio Kauan Candido Cordeiro</strong></p>
-  <p>
-    <a href="https://github.com/CaioKauanCandidoCordeiro">GitHub</a> 
-    <!-- | <a href="">LinkedIn</a>-->
-  </p>
-</div>
-
-<div style="width: 45%; margin: 10px;">
-  <img src="https://avatars.githubusercontent.com/u/207112570?v=4" alt="Foto do Matheus Lima" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-  <p><strong>Matheus Lima</strong></p>
-  <p>
-    <a href="https://github.com/Eduardo-L-Silva">GitHub</a> 
-    <!-- | <a href=" ">LinkedIn</a>-->
-  </p>
-</div>
-
-<div style="width: 45%; margin: 10px;">
-  <img src="https://avatars.githubusercontent.com/u/121130969?v=4" alt="Foto de Matheus" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-  <p><strong>Esdras Cruz</strong></p>
-  <p>
-    <a href="https://github.com/esdrascribeiro">GitHub</a>  
-    <!-- | <a href=" ">LinkedIn</a>-->
-  </p>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/98492418?v=4" width="150" style="border-radius: 50%"><br>
+      <strong>Gabriel Cordeiro Barroso Teles</strong><br>
+      <a href="https://github.com/GabrielCordeiroBarrosoTeles">GitHub</a> |
+      <a href="https://www.linkedin.com/in/gabriel-cordeiro-barroso">LinkedIn</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/207099894?v=4" width="150" style="border-radius: 50%"><br>
+      <strong>Caio Kauan Candido Cordeiro</strong><br>
+      <a href="https://github.com/CaioKauanCandidoCordeiro">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/207112570?v=4" width="150" style="border-radius: 50%"><br>
+      <strong>Matheus Lima</strong><br>
+      <a href="https://github.com/Eduardo-L-Silva">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/121130969?v=4" width="150" style="border-radius: 50%"><br>
+      <strong>Esdras Cruz</strong><br>
+      <a href="https://github.com/esdrascribeiro">GitHub</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
